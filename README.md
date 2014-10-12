@@ -13,4 +13,9 @@ Modulos
 * Python, solo lo necesario.
 * Webscrping, como sacamos datos del internet? (y de manera masiva!)
 * Machine Learning: Tecnicas para agrupas y encontrar patrones entre los datos.
-* 
+  * Regression : Como ajustamos curvas y modelos a datos.
+  * Clustering: SVM 
+  * Clustering: Kmeans
+  * Dimensionality Reduction : PCA
+  * Redes Neuronales
+* Visualizacion de datos, como presentar los patrones e informacion de manera efectiva.
