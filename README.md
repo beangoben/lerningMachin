@@ -14,8 +14,7 @@ Modulos
 * Webscrping, como sacamos datos del internet? (y de manera masiva!)
 * Machine Learning: Tecnicas para agrupas y encontrar patrones entre los datos.
   * Regression : Como ajustamos curvas y modelos a datos.
-  * Clustering: SVM 
-  * Clustering: Kmeans
-  * Dimensionality Reduction : PCA
+  * Clustering: SVM y Kmeans : Como podemos agrupar datos que tienen algo en comun, como descubrir esos grupos.
+  * Dimensionality Reduction : PCA - Como representar un objeto de dimension alta en algo mas sencillo sin perder tanta informacion.
   * Redes Neuronales
 * Visualizacion de datos, como presentar los patrones e informacion de manera efectiva.
