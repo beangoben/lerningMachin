@@ -17,7 +17,11 @@ git push origin master
 git pull
 ```
 
-Basado en "La historia entre los datos".
+## Como le hago a esto del Markdown?
+Checate
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
+## Basado en "La historia entre los datos".
 Este club es un curso introductorio a python, webscraping, machine learning y visualizacion de datos. La idea es usar estas herramientas para buscar significado detrás de los datos. Estaremos usando ejemplos tipicos dentro de la literatura y también datos que extraemos el primer dia de páginas de internet en México, la idea es utilizar varias herramientas para ver si podemos encontrar algun historia en ellos. 
 Muchas veces nuestros datos son gigantescos, humanamente imposibles de comprender, para ellos utilizaremos Machine Learning, entrenaremos un programa de computadora para sacar la información relevante.
 
